@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Supermarktfilialen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Filialname": "Kracauerplatz", "Kunden pro tag": 1950 }, "geometry": { "type": "Point", "coordinates": [ 13.296396530994457, 52.501885754434035 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Kaiserin-Augusta-Allee", "Kunden pro tag": 1000 }, "geometry": { "type": "Point", "coordinates": [ 13.31060943691668, 52.525736961564917 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Lietzenburger Str.", "Kunden pro tag": 1450 }, "geometry": { "type": "Point", "coordinates": [ 13.324827612733571, 52.499996218906844 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Otto-Suhr-Allee", "Kunden pro tag": 1525 }, "geometry": { "type": "Point", "coordinates": [ 13.311336682380995, 52.515867076154848 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Bismarckstr.", "Kunden pro tag": 2100 }, "geometry": { "type": "Point", "coordinates": [ 13.307500199061991, 52.511595210231867 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Fürstenbrunner Weg", "Kunden pro tag": 1200 }, "geometry": { "type": "Point", "coordinates": [ 13.279422200265707, 52.523575909214777 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Uhlandstr.", "Kunden pro tag": 1195 }, "geometry": { "type": "Point", "coordinates": [ 13.322572097815268, 52.48827864411556 ] } },
+{ "type": "Feature", "properties": { "Filialname": "Westfälische Str.", "Kunden pro tag": 1325 }, "geometry": { "type": "Point", "coordinates": [ 13.301070927565858, 52.494747439486098 ] } }
+]
+}
